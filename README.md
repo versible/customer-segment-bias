@@ -29,14 +29,14 @@ But making a methodology openly available we also hope to faciliate some side-ef
 
 
 ## Data Sources
-Ideal source data is ...
+Ideal source data is one year's worth of customer product sales.
 
 Details are given in the separate `Data Sources.md` file in this repository. 
 
 
 ## Methodology
 
-The core of the methodology is ...
+The core of the methodology is a simple weighted average of the attitudinal score, with the weighting being each product's share of sales by segment.
 
 Dtails are given in the separate `Methodology.md` file in this repository. 
 
