@@ -30,3 +30,7 @@ If the methodology felt too easy, maybe invest your time on beautiful and insigh
 * How do Category averages compare?
 * Pull out some examples.  Jams & Marmalades if often good.  Single pot yoghurts.  Anything from BWS.  And if them in your sales data, newspapers often provides solid data to backup preconceptions about the attitudes of each title's readers.
 * Can you use a report tool to present the data in a visual and drillable way?  For example, showing the distribution of scores within a category and allowing the user to click the chart and see which products fall where.
+
+---
+
+© Versible 2022

@@ -22,7 +22,7 @@ The intention is to discourage companies or individuals from re-selling this wor
 
 The technical methodology outlined here is not complex and probably too generic to even consider questions of authorship and ownership.  The intention for making this methodology openly available is to enable collaborative improvements between individuals and companies that are otherwise unwilling to collaborate due to perceived or real conflicts of interest.  
 
-But making a methodology openly available we also hope to faciliate some side-effects:
+By making a methodology openly available we also hope to faciliate some side-effects:
 * To make it harder for software and consulting vendors to hide behind a mask of having a "complex proprietory algorithm" which turns out to be as straight-forward as the one presented here. 
 * To equipe inhouse Data / Analytics / Insight / Science teams to deliver externally credible models themselves.
 * If a company wants Versible to help implement, we are of course happy to be engaged ;-).
